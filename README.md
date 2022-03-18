@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OgunjimiWaleola
 - 👀 I’m interested in ...Data science and software development 
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...@OgunjimiWaleola 
 
 <!---
